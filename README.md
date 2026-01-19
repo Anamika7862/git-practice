@@ -1,2 +1,3 @@
 # git-practice
-Learning git basic
+Learning git and git hub basic 
+ hey there
